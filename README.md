@@ -45,7 +45,7 @@
 ---
 
 ### 📊 Stats GitHub
-<a href="https://github.com/reda-boudaoud">
+<a href="https://github.com/doudaoud">
   <img src="https://github-readme-stats.vercel.app/api?username=doudaoud&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doudaoud&layout=compact&theme=tokyonight" height="150"/>
 </a>
