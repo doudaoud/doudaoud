@@ -1,16 +1,46 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**doudaoud/doudaoud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Boudaoud%20Mohamed%20Reda&fontSize=40&fontAlignY=35&desc=Étudiant%20en%20Génie%20Logiciel%20et%20Systèmes%20Informatiques&descAlignY=55&descAlign=50" alt="header"/>
 
-Here are some ideas to get you started:
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding" width="40%"/><br>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 À propos de moi
+- 🎓 Étudiant en **Génie Logiciel & Ingénierie des Systèmes Informatiques**  
+- 🚀 Passionné par le développement **Full Stack**  
+- 💡 J’aime explorer **JavaScript, Node.js, MongoDB, Express, MySQL et Python**  
+- 🌱 Actuellement en train de m'améliorer en **JavaScript avancé** et **cybersécurité**  
+
+---
+
+### 🛠️ Technologies & Outils
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 Stats GitHub
+<a href="https://github.com/reda-boudaoud">
+  <img src="https://github-readme-stats.vercel.app/api?username=reda-boudaoud&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reda-boudaoud&layout=compact&theme=tokyonight" height="150"/>
+</a>
+
+---
+
+### 🎶 En mode Code + Musique
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</div>
