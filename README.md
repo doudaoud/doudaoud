@@ -6,6 +6,13 @@
 
 ---
 
+### 👨‍💻 À propos de moi
+- 🎓 Étudiant en **Génie Logiciel & Ingénierie des Systèmes Informatiques**  
+- 🚀 Passionné par le développement **Full Stack**  
+- 💡 J’aime explorer **JavaScript, Node.js, MongoDB, Express, MySQL et Python**  
+- 🌱 Actuellement en train de m'améliorer en **JavaScript avancé** et **cybersécurité**  
+
+---
 ### 🖥️ Langages de Programmation  
 
 <p align="center">
