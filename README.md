@@ -40,15 +40,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="70"/>
-
 </p>
 
 ---
 
-### 📊 Stats GitHub
+### 📊 Stats GitHub (version stable)
+
 <a href="https://github.com/doudaoud">
-  <img src="https://github-readme-stats.vercel.app/api?username=doudaoud&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doudaoud&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=doudaoud&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=doudaoud&layout=compact&theme=tokyonight" height="150"/>
 </a>
 
 ---
