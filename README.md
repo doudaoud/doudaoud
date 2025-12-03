@@ -13,6 +13,7 @@
 - 🌱 Actuellement en train de m'améliorer en **JavaScript avancé** et **cybersécurité**  
 
 ---
+
 ### 🖥️ Langages de Programmation  
 
 <p align="center">
@@ -44,11 +45,16 @@
 
 ---
 
-### 📊 Stats GitHub (version stable)
+### 📊 Stats GitHub (version ULTRA-STABLE 🔥)
 
 <a href="https://github.com/doudaoud">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=doudaoud&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=doudaoud&layout=compact&theme=tokyonight" height="150"/>
+
+  <!-- GitHub Stats (instance stable) -->
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=doudaoud&show_icons=true&theme=tokyonight" height="160"/>
+
+  <!-- Top Langs (miroir le plus fiable) -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=doudaoud&layout=compact&theme=tokyonight" height="160"/>
+
 </a>
 
 ---
