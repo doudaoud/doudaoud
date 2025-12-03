@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 Stats GitHub (version ULTRA-STABLE 🔥)
+### 📊 Stats GitHub 
 
 <a href="https://github.com/doudaoud">
 
