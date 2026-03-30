@@ -9,7 +9,7 @@
 ### 👨‍💻 À propos de moi
 - 🎓 Étudiant en **Génie Logiciel & Ingénierie des Systèmes Informatiques**  
 - 🚀 Passionné par le développement **Full Stack**  
-- 💡 J’aime explorer **JavaScript, Node.js, MongoDB, Express, MySQL et Python**  
+- 💡 J’aime explorer **JavaScript, TypeScript, Node.js, MongoDB, Express, MySQL et Python**  
 - 🌱 Actuellement en train de m'améliorer en **JavaScript avancé** et **cybersécurité**  
 
 ---
@@ -18,6 +18,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"/>
@@ -49,11 +50,11 @@
 
 <a href="https://github.com/doudaoud">
 
-  <!-- GitHub Stats (instance stable) -->
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=doudaoud&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=doudaoud&show_icons=true&theme=tokyonight" height="160"/>
 
-  <!-- Top Langs (miroir le plus fiable) -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=doudaoud&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doudaoud&layout=compact&theme=tokyonight" height="160"/>
+
+  <img src="https://streak-stats.demolab.com/?user=doudaoud&theme=tokyonight" height="160"/>
 
 </a>
 
