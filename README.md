@@ -48,15 +48,15 @@
 
 ### 📊 Stats GitHub 
 
-<p align="center">
+<a href="https://github.com/doudaoud">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=doudaoud&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=doudaoud&show_icons=true&theme=tokyonight&cache_seconds=86400" height="160"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doudaoud&layout=compact&theme=tokyonight&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=doudaoud&layout=compact&theme=tokyonight&cache_seconds=86400" height="160"/>
 
   <img src="https://streak-stats.demolab.com/?user=doudaoud&theme=tokyonight" height="160"/>
 
-</p>
+</a>
 
 ---
 
