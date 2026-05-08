@@ -6,15 +6,15 @@
 
 ---
 
-### 👨‍💻 À propos de moi
-- 🎓 Étudiant en **Génie Logiciel & Ingénierie des Systèmes Informatiques**  
-- 🚀 Passionné par le développement **Full Stack**  
-- 💡 J’aime explorer **JavaScript, TypeScript, Node.js, MongoDB, Express, MySQL et Python**  
-- 🌱 Actuellement en train de m'améliorer en **JavaScript avancé** et **cybersécurité**  
+###  À propos de moi
+-  Étudiant en **Génie Logiciel & Ingénierie des Systèmes Informatiques**  
+-  Passionné par le développement **Full Stack**  
+-  J’aime explorer **JavaScript, TypeScript, Node.js, MongoDB, Express, MySQL et Python**  
+-  Actuellement en train de m'améliorer en **JavaScript avancé** et **cybersécurité**  
 
 ---
 
-### 🖥️ Langages de Programmation  
+###  Langages de Programmation  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/>
@@ -28,7 +28,7 @@
 
 ---
 
-### 🛠️ Technologies & Outils  
+### Technologies & Outils  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="70"/>
