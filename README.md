@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 Stats GitHub 
+###  Stats GitHub 
 
 <a href="https://github.com/doudaoud">
 
