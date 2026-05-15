@@ -9,23 +9,23 @@
 ###  À propos de moi
 -  Étudiant en **Génie Logiciel & Ingénierie des Systèmes Informatiques**  
 -  Passionné par le développement **Full Stack**  
--  J’aime explorer **JavaScript, TypeScript, Node.js, MongoDB, Express, MySQL et Python**  
+-  J’aime explorer **JavaScript, TypeScript, Next.js, Node.js, MongoDB, Express, MySQL et Python**  
 -  Actuellement en train de m'améliorer en **JavaScript avancé** et **cybersécurité**  
 
 ---
 
-###  Langages de Programmation  
+###  Langages & Frameworks  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="70"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="70"/>
 </p>
 
 ---
