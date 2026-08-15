@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Développeur+Full+Stack+Freelance;Passionné+de+Cybersécurité;En+route+vers+un+Master+en+Sécurité+Informatique" alt="Typing SVG" />
+<h3>💻 Développeur Full Stack Freelance &nbsp;|&nbsp; 🔐 Passionné de Cybersécurité &nbsp;|&nbsp; 🎓 En route vers un Master en Sécurité Informatique</h3>
 
 </div>
 
