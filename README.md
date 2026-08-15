@@ -6,7 +6,7 @@
 
 <br/>
 
-<h3>💻 Développeur Full Stack Freelance &nbsp;|&nbsp; 🔐 Passionné de Cybersécurité &nbsp;|&nbsp; 🎓 En route vers un Master en Sécurité Informatique</h3>
+<h3> Développeur Full Stack Freelance &nbsp;|&nbsp;  Passionné de Cybersécurité &nbsp;|&nbsp;  En route vers un Master en Sécurité Informatique</h3>
 
 </div>
 
