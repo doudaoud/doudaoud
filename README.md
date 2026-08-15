@@ -17,7 +17,7 @@
 - Étudiant en **Sécurité des Systèmes d'Information (SSI)**, licence ISIL
 - Développeur **Full Stack freelance** — sites web sur mesure pour des clients locaux (location de véhicules, événementiel...)
 - En train d'approfondir la **cybersécurité** en vue d'un master à l'étranger
-- Stack de prédilection : **JavaScript, TypeScript, Next.js, Node.js, MySQL, MongoDB**
+- Stack de prédilection : **JavaScript, TypeScript, Next.js, NestJS, Node.js, MySQL, MongoDB**
 - Actuellement en apprentissage : JavaScript avancé & fondamentaux cybersécurité
 
 <br/>
@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" alt="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="60" alt="NestJS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="60" alt="Go"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60" alt="C"/>
