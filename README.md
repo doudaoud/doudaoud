@@ -61,8 +61,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=doudaoud&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=doudaoud&layout=compact&theme=tokyonight&cache_seconds=86400" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=doudaoud&show_icons=true&theme=tokyonight&cache_seconds=86400" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doudaoud&layout=compact&theme=tokyonight&cache_seconds=86400" height="165"/>
 
 <img src="https://streak-stats.demolab.com/?user=doudaoud&theme=tokyonight" height="165"/>
 
